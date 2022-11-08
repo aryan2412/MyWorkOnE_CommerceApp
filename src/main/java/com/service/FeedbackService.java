@@ -68,7 +68,4 @@ public class FeedbackService {
         
     }
     
-//    public void deleteFeedback(int feedid) {
-//        feed.delete(feed.getById(feedid));
-//    }
 }
